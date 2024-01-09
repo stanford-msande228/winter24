@@ -34,10 +34,10 @@ schedule:
         end: 4:20 PM
         location: 370-370
   - name: Friday
+    events:
       - name: Office Hours
         start: 11:00 AM
         end: 12:00 PM
         location: Huang 252
         staff: Vasilis
-    
 ---
