@@ -23,31 +23,21 @@ schedule:
   - name: Tuesday
     events:
       - name: Lecture
-        start: 1:30 PM
-        end: 2:50 PM
-        location: McCullough 115
-      - name: Office Hours
         start: 3:00 PM
-        end: 4:00 PM
-        location: McCullough 115
-        staff: Johannes
+        end: 4:20 PM
+        location: 370-370
   - name: Wednesday
   - name: Thursday
     events:
-      - name: Office Hours
-        start: 12:30 PM
-        end: 1:30 PM
-        location: Huang Basement
-        staff: Hui
       - name: Lecture
-        start: 1:30 PM
-        end: 2:50 PM
-        location: McCullough 115
-      - name: Office Hours
         start: 3:00 PM
-        end: 4:00 PM
+        end: 4:20 PM
+        location: 370-370
+  - name: Friday
+      - name: Office Hours
+        start: 11:00 AM
+        end: 12:00 PM
         location: Huang 252
         staff: Vasilis
-  - name: Friday
     
 ---
