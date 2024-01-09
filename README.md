@@ -13,7 +13,7 @@ seo:
 Instructor: [Vasilis Syrgkanis](https://vsyrgkanis.com/index.html), Assistant Professor, MS&E  
 Units: 3  
 Winter Quarter 2023  
-Tue, Thu 1:30-2:50PM McCullough 115
+Tue, Thu 3:00-4:20PM 370-370
 
 **Description:**  
 The course will cover fundamentals of modern applied causal inference. Basic principles of causal inference and machine learning and how the two can be combined in practice to deliver causal insights and policy implications in real world datasets, allowing for high-dimensionality and flexible estimation. Lectures will provide foundations of these new methodologies and the course assignments will involve real world data and synthetic data analysis based on these methodologies. 
@@ -26,10 +26,9 @@ The course will cover fundamentals of modern applied causal inference. Basic pri
 
 |                   | Time                       | Location       |
 |-------------------|----------------------------|-----------     |
-| Vasilis Syrgkanis | Thursday 3-4pm             | Huang 252      |
-| Johannes Ferstad  | Tuesdays 3-4pm (cancelled 3/7; See Ed for announcement) | McCullough 115 |
-| Hui Lan           | Mondays 9:30-10:30am       | Spilker 143    |
-
+| Vasilis Syrgkanis | Friday 11am-12pm           | Huang 252      |
+| Hui Lan           | TBA       | TBA    |
+| Justin Young  | TBA | TBA |
  
 
 ### Format
@@ -46,7 +45,7 @@ The course will consist of lectures and homework assignments. Lectures will be h
 ### Course webpages
 
 * Discussion and homework material: [canvas](https://canvas.stanford.edu/)
-* Submissions: [gradescope](https://www.gradescope.com/courses/486969/)
+* Submissions: [Gradescope](https://www.gradescope.com/courses/701783)
 * Example Code and Notebooks: [Github](https://github.com/CausalAIBook/MetricsMLNotebooks)
 
 
