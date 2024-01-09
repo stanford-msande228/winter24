@@ -18,7 +18,7 @@ Tue, Thu 3:00-4:20PM 370-370
 **Description:**  
 The course will cover fundamentals of modern applied causal inference. Basic principles of causal inference and machine learning and how the two can be combined in practice to deliver causal insights and policy implications in real world datasets, allowing for high-dimensionality and flexible estimation. Lectures will provide foundations of these new methodologies and the course assignments will involve real world data and synthetic data analysis based on these methodologies. 
 
-![Course Overview](class_overview.png)
+![Course Overview](https://github.com/stanford-msande228/winter24/raw/main/assets/class_overview.png)
 
 **Prerequisites:** Basic knowledge of probability and statistics. Recommended: MS&E 226 or equivalent.
 

@@ -4,8 +4,8 @@ title: Week 1
 
 Jan 9
 : **Lecture**{: .label .label-green } Introduction
-  : [[PPTX]](https://github.com/stanford-msande228/winter24/raw/main/MSANDE228_Introduction.pptx)
-  : [[PDF]](https://github.com/stanford-msande228/winter24/raw/main/MSANDE228_Introduction.pdf)
+  : [[PPTX]](https://github.com/stanford-msande228/winter24/raw/main/assets/presentations/MSANDE228_Introduction.pptx)
+  : [[PDF]](https://github.com/stanford-msande228/winter24/raw/main/assets/presentations/MSANDE228_Introduction.pdf)
 : ***Reading Materials***
 - [Avoidable flaws in observational analyses: an application to statins and cancer](https://www.nature.com/articles/s41591-019-0597-x)
 - [Importance of Observational Studies in Clinical Practice](https://reader.elsevier.com/reader/sd/pii/S0149291807001841?token=0B979B919B9985F0848EEBBC480973DE11B3C4C25792D181F5E150D0D1273372545994BBB41517CFD41E029ABDFFEC25&originRegion=us-east-1&originCreation=20230110025926)
@@ -15,8 +15,8 @@ Jan 9
 
 Jan 11
 : **Lecture 1**{: .label .label-green } Causality via Experiments
-  : [[PPTX]](https://github.com/stanford-msande228/winter24/raw/main/MSANDE228_Lecture2_Causality_via_Experiments.pptx)
-  : [[PDF]](https://github.com/stanford-msande228/winter24/raw/main/MSANDE228_Lecture2_Causality_via_Experiments.pdf)
+  : [[PPTX]](https://github.com/stanford-msande228/winter24/raw/main/assets/presentations/MSANDE228_Lecture2_Causality_via_Experiments.pptx)
+  : [[PDF]](https://github.com/stanford-msande228/winter24/raw/main/assets/presentations/MSANDE228_Lecture2_Causality_via_Experiments.pdf)
   : [[Demo Code]](https://github.com/stanford-msande228/winter24/blob/main/Lecture1-Demo.ipynb)
 : ***Reading Materials***
 - Chapter 2 of [Textbook](https://canvas.stanford.edu/courses/184879/files/)
