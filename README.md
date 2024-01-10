@@ -49,6 +49,9 @@ The course will consist of lectures and homework assignments. Lectures will be h
 * Submissions: [Gradescope](https://www.gradescope.com/courses/701783)
 * Example Code and Notebooks: [Github](https://github.com/CausalAIBook/MetricsMLNotebooks)
 
+### Prior Offerings
+
+* [Winter 2023](https://stanford-msande228.github.io/winter23/)
 
 ### Problem sets
 
