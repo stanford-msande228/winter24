@@ -65,11 +65,11 @@ We encourage discussion of assignments with other classmates, but everybody must
 
 
 ### Computation
-Many of the problem sets, as well as the guided project, will require you to be comfortable carrying out computations on data.  Note that the “official” course language will be python: this is what we use for our problem sets, in our lectures and discussion sections, and the language we support in office hours.
+Many of the problem sets will require you to be comfortable carrying out computations on data.  Note that the “official” course language will be python: this is what we use for our problem sets, in our lectures and discussion sections, and the language we support in office hours.
 
 We will provide links to python on the website, as well as any datasets that are needed through the course of the quarter. You can find notebooks that will be used throughout the class in python and R in this github repo: [https://github.com/CausalAIBook/MetricsMLNotebooks](https://github.com/CausalAIBook/MetricsMLNotebooks).
 
-As noted above, you are welcome to work in pairs on any computational component in the class, and on the project.  In addition, you are welcome to use another language (e.g., R), for the project, but note that the course staff is only responsible to provide technical support for python.  
+As noted above, you are welcome to work in pairs on any computational component in the class.  In addition, you are welcome to use another language (e.g., R) but note that the course staff is only responsible to provide technical support for python.  
 
 **Late day policy**
 
