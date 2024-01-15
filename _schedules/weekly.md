@@ -22,11 +22,6 @@ schedule:
   - name: Monday
   - name: Tuesday
     events:
-      - name: Office Hours
-        start: 2:00 PM
-        end: 3:00 PM
-        location: TBA
-        staff: Hui
       - name: Lecture
         start: 3:00 PM
         end: 4:20 PM
@@ -44,6 +39,11 @@ schedule:
         start: 3:00 PM
         end: 4:20 PM
         location: 370-370
+      - name: Office Hours
+        start: 4:30 PM
+        end: 5:30 PM
+        location: Y2E2 335
+        staff: Hui
   - name: Friday
     events:
       - name: Office Hours
