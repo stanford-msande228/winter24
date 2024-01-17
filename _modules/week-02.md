@@ -14,8 +14,8 @@ Jan 16
 : ***Reading Materials***
 - Chapter 1 of [Textbook](https://canvas.stanford.edu/courses/168439/files/folder/Readings)
 : ***Coding Materials***
-- [Predicting Wages](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/PM1/PM1_prediction.ipynb)
-- [Predictive Inference on Wage Gap](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/PM1/inference.ipynb)
+- [Predicting Wages](https://github.com/CausalAIBook/MetricsMLNotebooks/PM1/python-ols-and-lasso-for-wage-prediction.ipynb)
+- [Predictive Inference on Wage Gap](https://github.com/CausalAIBook/MetricsMLNotebooks/PM1/python-ols-and-lasso-for-wage-gap-inference.ipynb)
 : ***Further Reading***
 - Lovell, [A Simple Proof of the FWL Theorem](https://www.jstor.org/stable/41426805)
 - Cattaneo, Jansson, Newey, [Inference in Linear Regression Models with Many Covariates and Heteroscedasticity](https://www.tandfonline.com/doi/full/10.1080/01621459.2017.1328360)
@@ -31,5 +31,5 @@ Jan 18
 : ***Reading Materials***
 - Chapter 3 of [Textbook](https://canvas.stanford.edu/courses/168439/files/folder/Readings)
 : ***Coding Materials***
-- [Penalized Linear Regressions: Simulated Data](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/PM2/linear-penalized-regs.ipynb)
-- [Predicting Wages with Penalized Regressions](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/PM2/ml-for-wage-prediction.ipynb)
+- [Penalized Linear Regressions: Simulated Data](https://github.com/CausalAIBook/MetricsMLNotebooks/PM2/python_linear_penalized_regs.ipynb)
+- [Predicting Wages with Penalized Regressions](https://github.com/CausalAIBook/MetricsMLNotebooks/PM2/python_ml_for_wage_prediction.ipynb)
