@@ -9,7 +9,7 @@ Jan 16
 : **Lecture**{: .label .label-green } Inference in linear models
   : [[PPTX]](https://github.com/stanford-msande228/winter24/raw/main/assets/presentations/MSANDE228_Lecture3_Inference_in_Linear_Models.pptx)
   : [[PDF]](https://github.com/stanford-msande228/winter24/raw/main/assets/presentations/MSANDE228_Lecture3_Inference_in_Linear_Models.pdf)
-  : [[Demo Code]](https://github.com/stanford-msande228/winter24/assets/code/Lecture3-Demo.ipynb)
+  : [[Demo Code]](https://github.com/stanford-msande228/winter24/raw/main/assets/code/Lecture3-Demo.ipynb)
 : Basics of statistical inference in linear models; confidence intervals for p « n; interpretation of coefficient as partialling out; inference on ATE from trials via regression; Revisiting the role of covariates in randomized trials: precision and heterogeneity: variance characterization and comparisons
 : ***Reading Materials***
 - Chapter 1 of [Textbook](https://canvas.stanford.edu/courses/168439/files/folder/Readings)
@@ -26,7 +26,7 @@ Jan 18
 : **Lecture**{: .label .label-green } Prediction in high dimensional linear models
   : [[PPTX]](https://github.com/stanford-msande228/winter24/raw/main/assets/presentations/MSANDE228_Lecture4_Inference_in_High_Dimensional_Linear_Models.pptx)
   : [[PDF]](https://github.com/stanford-msande228/winter24/raw/main/assets/presentations/MSANDE228_Lecture4_Inference_in_High_Dimensional_Linear_Models.pdf)
-  : [[Demo Code]](https://github.com/stanford-msande228/winter24/assets/code/Lecture4-Demo.ipynb)
+  : [[Demo Code]](https://github.com/stanford-msande228/winter24/raw/main/assets/code/Lecture4-Demo.ipynb)
 : High dimensional methods and prediction; regularization; lasso; elasticnet;
 : ***Reading Materials***
 - Chapter 3 of [Textbook](https://canvas.stanford.edu/courses/168439/files/folder/Readings)
