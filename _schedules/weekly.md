@@ -31,7 +31,7 @@ schedule:
       - name: Office Hours
         start: 1:00 PM
         end: 2:00 PM
-        location: TBA
+        location: 160-325
         staff: Justin
   - name: Thursday
     events:
