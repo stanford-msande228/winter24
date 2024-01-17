@@ -21,9 +21,9 @@ Jan 11
 : ***Reading Materials***
 - Chapter 2 of [Textbook](https://canvas.stanford.edu/courses/184879/files/)
 : ***Coding Materials***
-- [Pennsylvania Re-employment Bonus Experiment](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/CM1/rct_penn.ipynb)
-- [Analyzing RCT with Precision via Adjustment](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/CM1/rct_simulation.ipynb)
-- [Vaccine RCT Examples](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/CM1/rct_vaccines.ipynb)
+- [Pennsylvania Re-employment Bonus Experiment](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/CM1/python-rct-penn-precision-adj.ipynb)
+- [Analyzing RCT with Precision via Adjustment](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/CM1/python-sim-precision-adj.ipynb)
+- [Vaccine RCT Examples](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/CM1/python-rct-vaccines.ipynb)
 : ***Further reading***
 - [Statistical Methods for Research Workers](https://link.springer.com/chapter/10.1007/978-1-4612-4380-9_6)
 - [On the Application of Probability Theory to Agricultural Experiments](https://www.jstor.org/stable/2245382)
