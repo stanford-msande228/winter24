@@ -11,5 +11,5 @@ Jan 23
 : ***Reading Materials***
 - Chapter 4 of [Textbook](https://canvas.stanford.edu/courses/184879/files?)
 : ***Coding Materials***
-- [Testing the Convergence Hypothesis with Double Lasso](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/PM2/python_convergenc_hypothesis_double_lasso.ipynb)
+- [Testing the Convergence Hypothesis with Double Lasso](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/PM2/python_convergence_hypothesis_double_lasso.ipynb)
 - [Heterogeneous Predictive Wage Effects with Double Lasso](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/PM2/python_heterogeneous_wage_effects.ipynb)
