@@ -16,8 +16,8 @@ Jan 23
 
 Jan 25
 : **Lecture**{: .label .label-green } Causality in observational data
-  : [[PPTX]](https://github.com/stanford-msande228/winter23/raw/main/assets/presentations/MSANDE228_Lecture6_Causality_in_Observational_Data.pptx)
-  : [[PDF]](https://github.com/stanford-msande228/winter23/raw/main/assets/presentations/MSANDE228_Lecture6_Causality_in_Observational_Data.pdf)
+  : [[PPTX]](https://github.com/stanford-msande228/winter24/raw/main/assets/presentations/MSANDE228_Lecture6_Causality_in_Observational_Data.pptx)
+  : [[PDF]](https://github.com/stanford-msande228/winter24/raw/main/assets/presentations/MSANDE228_Lecture6_Causality_in_Observational_Data.pdf)
 : confounding; conditional ignorability; identification by conditioning; identification via propensity scores
 : ***Reading Materials***
 - Chapter 5 of [Textbook](https://canvas.stanford.edu/courses/184879/files?)
