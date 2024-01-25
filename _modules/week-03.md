@@ -13,3 +13,14 @@ Jan 23
 : ***Coding Materials***
 - [Testing the Convergence Hypothesis with Double Lasso](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/PM2/python_convergence_hypothesis_double_lasso.ipynb)
 - [Heterogeneous Predictive Wage Effects with Double Lasso](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/PM2/python_heterogeneous_wage_effects.ipynb)
+
+Jan 25
+: **Lecture**{: .label .label-green } Causality in observational data
+  : [[PPTX]](https://github.com/stanford-msande228/winter23/raw/main/assets/presentations/MSANDE228_Lecture6_Causality_in_Observational_Data.pptx)
+  : [[PDF]](https://github.com/stanford-msande228/winter23/raw/main/assets/presentations/MSANDE228_Lecture6_Causality_in_Observational_Data.pdf)
+: confounding; conditional ignorability; identification by conditioning; identification via propensity scores
+: ***Reading Materials***
+- Chapter 5 of [Textbook](https://canvas.stanford.edu/courses/184879/files?)
+: ***Further Reading***
+- [The Central Role of the Propensity Score in Observational Studies for Causal Effects](https://www.jstor.org/stable/2335942#metadata_info_tab_contents)
+- [Adaptive normalization for IPW estimation](https://arxiv.org/abs/2106.07695)
