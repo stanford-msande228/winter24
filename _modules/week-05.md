@@ -19,8 +19,8 @@ Feb 8
 : **Homework**{: .label .label-red } HW2 Due
   : [gradescope](https://www.gradescope.com/courses/701783/)
 : **Lecture**{: .label .label-green } Valid Adjustments Sets from DAGs
-  : [[PPTX]](https://github.com/stanford-msande228/winter23/raw/main/assets/presentations/MSANDE228_Lecture9_Valid_Adjustment_Sets.pptx)
-  : [[PDF]](https://github.com/stanford-msande228/winter23/raw/main/assets/presentations/MSANDE228_Lecture9_Valid_Adjustment_Sets.pdf)
+  : [[PPTX]](https://github.com/stanford-msande228/winter24/raw/main/assets/presentations/MSANDE228_Lecture9_Valid_Adjustment_Sets.pptx)
+  : [[PDF]](https://github.com/stanford-msande228/winter24/raw/main/assets/presentations/MSANDE228_Lecture9_Valid_Adjustment_Sets.pdf)
   : [[Demo Py]](https://colab.research.google.com/drive/1BHwxAO0OkIoroK66zRVxnkptKbJQ-q9W)
   : [[Demo R]](https://colab.research.google.com/drive/1RA3jNYtw5j0MfiPYIfaMlhB8nuWEDB1O#scrollTo=UG0_nl-XYNvV)
 : Single World Intervention Graphs (SWIGs); Graphical criteria for valid adjustment sets; Good and Bad controls
