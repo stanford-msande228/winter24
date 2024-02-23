@@ -27,8 +27,8 @@ The course will cover fundamentals of modern applied causal inference. Basic pri
 |                   | Time                       | Location       |
 |-------------------|----------------------------|-----------     |
 | Vasilis Syrgkanis | Friday 11am-12pm           | Huang 252      |
-| Hui Lan           | Tuesday 2pm-3pm       | TBA    |
-| Justin Young  | Wednesday 1pm-2pm | TBA |
+| Hui Lan           | Thursday 4:30pm-5:30pm     | Y2E2 335       |
+| Justin Young  | Wednesday 1pm-2pm | 160-325 |
  
 
 ### Format
