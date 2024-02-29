@@ -3,6 +3,7 @@ title: Week 8
 ---
 
 Feb 27
+
 **Lecture**{: .label .label-green } Unobserved Confounding and Instruments
   : [[PPTX]](https://github.com/stanford-msande228/winter24/raw/main/assets/presentations/MSANDE228_Lecture14_Unobserved_Confounding.pptx)
   : [[PDF]](https://github.com/stanford-msande228/winter24/raw/main/assets/presentations/MSANDE228_Lecture14_Unobserved_Confounding.pdf)
@@ -27,6 +28,7 @@ Feb 27
 - [Git Repo for Omitted Variable Bias with ML](https://colab.research.google.com/github/vsyrgkanis/omvb)
 
 Feb 29
+
 **Lecture**{: .label .label-green } Unobserved Confounding and Instruments
   : [[PPTX]](https://github.com/stanford-msande228/winter24/raw/main/assets/presentations/MSANDE228_Lecture15_Unobserved_Confounding_and_Instruments.pptx)
   : [[PDF]](https://github.com/stanford-msande228/winter24/raw/main/assets/presentations/MSANDE228_Lecture15_Unobserved_Confounding_and_Instruments.pdf)
