@@ -21,3 +21,7 @@ Feb 22
 - Chapter 10 of [Textbook](https://canvas.stanford.edu/courses/184879/files/)
 : ***Coding Materials***
 - [DML for Impact of 401(K) Eligibility on Financial Wealth](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/CM4/python-dml-401k.ipynb)
+
+Feb 23
+: **Homework**{: .label .label-blue } HW3 Released
+  : [Google Doc](https://docs.google.com/document/d/1yGyQg8vhTM70igX8YVm0t1pVDA3OfYfQ5FSaqaqUAfw/edit?usp=sharing)
