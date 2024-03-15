@@ -25,7 +25,7 @@ Mar 12
 - [Auxiliary python script needed for demo and CATE notebook code](https://colab.research.google.com/github/stanford-msande228/winter24/blob/main/assets/code/datasets.py)
 
 Mar 14
-: **Lecture**{: .label .label-green } Longitudinal Data and Dynamic Treatment Regime
+: **Lecture**{: .label .label-green } Advanced Topics
   : [[PPTX]](https://github.com/stanford-msande228/winter24/raw/main/assets/presentations/MSANDE228_Lecture19_Advanced_Topics.pptx)
   : [[PDF]](https://github.com/stanford-msande228/winter24/raw/main/assets/presentations/MSANDE228_Lecture19_Advanced_Topics.pdf)
   : [[Demo]](https://colab.research.google.com/github/stanford-msande228/winter24/blob/main/assets/code/DynamicEffects.ipynb)
