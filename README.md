@@ -12,7 +12,7 @@ seo:
 
 Instructor: [Vasilis Syrgkanis](https://vsyrgkanis.com/index.html), Assistant Professor, MS&E  
 Units: 3  
-Winter Quarter 2023  
+Winter Quarter 2024  
 Tue, Thu 3:00-4:20PM 370-370
 
 **Description:**  
